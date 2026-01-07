@@ -7,7 +7,7 @@
   <a href="https://orcid.org/0000-0003-4140-7336">
     <img src="https://img.shields.io/badge/ORCID-Researcher-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
-  <a href="[SEU_LINK_LINKEDIN](https://www.linkedin.com/in/alison-hideo-jolo-silva-0a678041/)">
+  <a href="https://www.linkedin.com/in/alison-hideo-jolo-silva-0a678041/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
