@@ -53,6 +53,6 @@ My approach combines the Wet Lab with the Dry Lab:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=criapa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criapa&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+  <img height="160em" src="https://github-readme-stats-theta-green-42.vercel.app/api?username=criapa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-theta-green-42.vercel.app/api/top-langs/?username=criapa&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
 </div>
