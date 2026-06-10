@@ -1,28 +1,12 @@
-# Hello, I'm Alison Hideo! 👋
-
-<div align="center">
-  <a href="http://lattes.cnpq.br/9883598230733778">
-    <img src="https://img.shields.io/badge/Lattes-Curriculum-blue?style=for-the-badge&logo=lattes" alt="Lattes CV"/>
-  </a>
-  <a href="https://orcid.org/0000-0003-4140-7336">
-    <img src="https://img.shields.io/badge/ORCID-Researcher-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/alison-hideo-jolo-silva-0a678041/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+# Welcome to CRIAPA Hub! 👋
 
 <br>
 
 > **"Bridging Life Sciences with Data Science."**
-
-I am a Biologist and Researcher (PhD Candidate) with a solid background in molecular biology, experimental neuroscience, and pharmacology. Currently, I apply my scientific rigor and analytical skills to develop technological solutions and data automation.
-
 ---
 
 ### 🔬 What I'm Focused On (Research & Tech)
 
-* 🎓 **PhD Candidate in Health Biotechnology (RENORBIO/UFRPE):** Researching nanotechnology and cannabinoids applied to Autism Spectrum Disorder (ASD).
 * 💻 **Python Development:** Building bots for public data extraction (ETL) and dashboards for regulatory monitoring.
 * 🧠 **Innovation & IP:** Intellectual Property Specialist (WIPO Certified) and founder of **CRIAPA** (Innovation Consultancy).
 * 🤖 **AI Training:** Experienced in transforming complex experimental scenarios into logical frameworks for AI training.
